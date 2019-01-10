@@ -6,3 +6,5 @@ line plus 1 -> master
 
 
 git remove
+
+git add or commit
